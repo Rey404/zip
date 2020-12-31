@@ -15,7 +15,7 @@ git clone https://github.com/Rey404/zip
 
 ls 
 
-Termux-setup-storage
+termux-setup-storage
 
 ls
 
